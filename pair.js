@@ -70,14 +70,7 @@ ____________________________________
 ╚════════════════════❒
 ╔═════◇
 ║ 『••• OWNER INFO •••』
-║ ❒ 𝐘𝐨𝐮𝐭𝐮𝐛𝐞: _https://www.youtube.com/@silvaedits254_
-
-║ ❒ 𝐎𝐰𝐧𝐞𝐫: _https://wa.me/254700143167_
-
-║ ❒ 𝐖𝐚𝐂𝐡𝐚𝐧𝐧𝐞𝐥: _https://www.whatsapp.com/channel/0029VaAkETLLY6d8qhLmZt2v_
-> fork the following repo
-║ ❒ Repo 1: _https://github.com/SilvaTechB/silva-md-bot_
-║ ❒ Repo 2: _https://github.com/Sylivanu/s-ilva_
+║ ❒
 ╚════════════════════╝ 
  *silva tech inc*
 ___________________________________
